@@ -1,6 +1,6 @@
 ![Header](https://github.com/Myrza11/Myrza11/blob/main/asests/python.jpg)
 
-## I am a ninth grade student, I love playing games and programming
+## I am a Python developer, and I have a passion for coding. I graduated with a degree in Information Systems.
 
 ### Programming languages
 [![Python](https://img.shields.io/badge/-Python-B8860B?style=for-the-badge&logo=python&logoColor=00008B)](https://ru.wikipedia.org/wiki/Python)
